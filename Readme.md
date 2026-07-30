@@ -1,19 +1,4 @@
-* [Aditya Namdeo](https://adityanamdeo.qzz.io/) – Machine Learning Intern | AI
-* [Aditya Namdeo](https://adityanamdeo.qzz.io/) – Machine Learning Intern | AI
-* [Aditya Namdeo](https://adityanamdeo.qzz.io/) – Machine Learning Intern | AI
+https://www.linkedin.com/in/adityanamdeo/
 
 
-* [Aditya Namdeo](https://adityanamdeo.qzz.io/) – Machine Learning Intern | AI
-* [Aditya Namdeo](https://adityanamdeo.qzz.io/) – Machine Learning Intern | AI
-* [Aditya Namdeo](https://adityanamdeo.qzz.io/) – Machine Learning Intern | AI
-
-* [Aditya Namdeo](https://adityanamdeo.qzz.io/) – Machine Learning Intern | AI
-* [Aditya Namdeo](https://adityanamdeo.qzz.io/) – Machine Learning Intern | AI
-* [Aditya Namdeo](https://adityanamdeo.qzz.io/) – Machine Learning Intern | AI
-
-
-* [Aditya Namdeo](https://adityanamdeo.qzz.io/) – Machine Learning Intern | AI
-* [Aditya Namdeo](https://adityanamdeo.qzz.io/) – Machine Learning Intern | AI
-* [Aditya Namdeo](https://adityanamdeo.qzz.io/) – Machine Learning Intern | AI
-
-
+https://adityanamdeo.qzz.io/

@@ -1,26 +1,10 @@
-# Program to check if a number is prime or not
-
-num = 29
-
-# To take input from the user
-#num = int(input("Enter a number: "))
-
-# define a flag variable
-flag = False
-
-if num == 0 or num == 1:
-    print(num, "is not a prime number")
-elif num > 1:
-    # check for factors
-    for i in range(2, num):
-        if (num % i) == 0:
-            # if factor is found, set flag to True
-            flag = True
-            # break out of loop
-            break
-
-    # check if flag is True
-    if flag:
-        print(num, "is not a prime number")
-    else:
-        print(num, "is a prime number")
+for x in range(5):
+    for y in range(5):
+        pydle(x, y, "", "orange")
+for x in [0, 4]:
+    for y in [0, 4]:
+        pydle(x, y, "", "blue")
+for x in [1, 3]:
+    for y in [1, 3]:
+        pydle(x, y, "", "yellow")
+for x,y in [(1,2),(2,1),(2,2),(2,3),(3,2)]: pydle(x,y,"","black")

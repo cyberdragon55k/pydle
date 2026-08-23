@@ -1,0 +1,10 @@
+c = {"k": "black", "g": "green"}
+bg = ["kkkkk", "kkkkk", "kkkkk", "gkkkg", "kkgkk"]
+sy = ["MMMMM", "MM MM", "  |  ", "     ", "3   0"]
+
+for y in range(5):
+    for x in range(5):
+        char = sy[y][x]
+        # Translate 'M' to the alien, spaces to blank, and keep everything else
+        t = "👾" if char == "M" else ("" if char == " " else char)
+        pydle(x, y, t, c[bg[y][x]])

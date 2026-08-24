@@ -1,10 +1,7 @@
-Pydle #182
-⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜
+sy = ["8H H ", "  H  ", " H H ", "  H  ", " H H8"]
 
-Attempts: 1
-Characters: 141/250
-https://pydle.net/
+for y in range(5):
+    for x in range(5):
+        char = sy[y][x]
+        text = "❤️" if char == "H" else ("" if char == " " else char)
+        pydle(x, y, text, "white")

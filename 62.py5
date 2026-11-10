@@ -1,0 +1,5 @@
+g=['ybbbb','qvvvb','qrrrv','qyyyr','qbbby']
+c={'y':'yellow','b':'blue','v':'black','r':'red','q':'brown'}
+for x in range(5):
+    for y in range(5):
+        pydle(x,y,'',c[g[y][x]])

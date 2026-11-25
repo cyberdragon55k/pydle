@@ -1,0 +1,4 @@
+🤖 AI/ML Developer | 🎓 Computer Science Engineering | 💻
+🔭 Specializing in: Python, C++, and robust Object-Oriented Programming
+🌱 Currently building: Data-driven automation systems and scalable NLP data pipelines
+⚡ Always exploring: Next-generation ML architectures and backend server integrations
